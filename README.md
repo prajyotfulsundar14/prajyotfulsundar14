@@ -20,10 +20,11 @@
   <a href="https://prajyotfulsundar14.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-39d353?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
 
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Senior+DevOps+Engineer+🚀+|+3%2B+yrs+primary+focus;QA+Automation+Lead+🧪+|+7+yrs+deep+expertise;10%2B+Years+Total+Engineering+Experience+📊;AWS+|+Kubernetes+|+Terraform+|+Docker)](https://git.io/typing-svg)</p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Senior+DevOps+Engineer+🚀+|+3%2B+yrs+primary+focus;QA+Automation+Lead+🧪+|+7+yrs+deep+expertise;10%2B+Years+Total+Engineering+Experience+📊;AWS+|+Kubernetes+|+Terraform+|+Docker)](https://git.io/typing-svg)
+</p>
 ---
 
 ## �� About Me
