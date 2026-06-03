@@ -22,11 +22,33 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Senior+DevOps+Engineer+🚀+|+3%2B+yrs+primary+focus;QA+Automation+Lead+🧪+|+7+yrs+deep+expertise;10%2B+Years+Total+Engineering+Experience+📊;AWS+|+Kubernetes+|+Terraform+|+Docker;GitHub+Actions+|+ArgoCD+|+GitOps+|+CI/CD;Playwright+|+Selenium+|+Postman+|+TestNG;Open+to+Senior+DevOps+/+SRE+/+Platform+Roles&font=Courier+New&color=00b4d8&height=60&width=800&duration=5000&pause=1000&repeat=true" alt="Typing SVG" />
-  </a>
-</p>
+<script>
+const lines = [
+  "Senior DevOps Engineer 🚀 | 3+ yrs primary focus",
+  "QA Automation Lead 🧪 | 7 yrs deep expertise", 
+  "10+ Years Total Engineering Experience 📊",
+  "AWS | Kubernetes | Terraform | Docker",
+  "GitHub Actions | ArgoCD | GitOps | CI/CD",
+  "Playwright | Selenium | Postman | TestNG",
+  "Open to Senior DevOps / SRE / Platform Roles"
+];
+let li = 0, ci = 0, del = false, txt = "";
+const el = document.getElementById("typer");
+function tick() {
+  const t = lines[li];
+  if (!del) {
+    txt = t.slice(0, ++ci);
+    el.textContent = txt;
+    if (ci === t.length) { del = true; return setTimeout(tick, 2000); }
+  } else {
+    txt = t.slice(0, --ci);
+    el.textContent = txt;
+    if (ci === 0) { del = false; li = (li + 1) % lines.length; }
+  }
+  setTimeout(tick, del ? 38 : 78);
+}
+tick();
+</script>
 
 ---
 
