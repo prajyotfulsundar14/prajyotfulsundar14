@@ -2,6 +2,8 @@
   <img src="https://avatars.githubusercontent.com/u/25434538?v=4" alt="Avatar" width="120" style="border-radius: 50%; border: 4px solid #00b4d8;"/>
 </p>
 
+  <h1 align="center"><b>Prajyot Fulsundar 👋</b></h1>
+  
 <p align="center">
   <h1 style="font-size: 28px; font-weight: 800; color: #00b4d8; margin: 10px 0 5px;">Building secure cloud-native systems.</h1>
   <p style="font-size: 16px; color: #8b949e; margin: 10px 0 5px; line-height: 1.5;"><strong>10+ Years</strong> of driving enterprise-scale infrastructure resilience, implementing shift-left security practices, and accelerating delivery velocity through advanced DevOps automation. A distinguished engineer with deep expertise in building self-healing CI/CD pipelines, automated compliance gates, and production-grade cloud infrastructure.</p>
