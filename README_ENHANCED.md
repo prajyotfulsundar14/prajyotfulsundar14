@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/25434538?v=4" alt="Avatar" width="120" style="border-radius: 50%; border: 4px solid #00b4d8;"/>
 </p>
 
@@ -56,7 +56,7 @@ tick();
 
 ---
 
-## �� About Me
+## 🚀 About Me
 
 I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterprise-scale infrastructure resilience and accelerating delivery velocity through advanced DevOps automation. Currently focused on building production-ready cloud infrastructure while maintaining deep expertise in test automation.
 
@@ -128,6 +128,22 @@ I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
+
+---
+
+## 📈 Advanced Metrics & GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajyotfulsundar14&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajyotfulsundar14&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajyotfulsundar14&theme=radical&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -227,76 +243,47 @@ I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterp
 
 ---
 
-## 📊 GitHub Analytics & Performance Dashboard
-
-### Core GitHub Metrics
+## 📊 Recent Projects & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajyotfulsundar14&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00b4d8&icon_color=00b4d8&text_color=C9D1D9&border_color=00b4d8" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajyotfulsundar14&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00b4d8&text_color=C9D1D9&border_color=00b4d8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajyotfulsundar14&repo=aws-3tier-java-devops-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7" alt="AWS Project"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajyotfulsundar14&repo=ci-cd-pipeline-template&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7" alt="CI/CD Pipeline"/>
 </p>
 
-### Contribution Streak
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajyotfulsundar14&theme=radical&hide_border=true&background=0D1117&stroke=00b4d8&ring=00b4d8&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00b4d8&sideLabels=00b4d8" alt="GitHub Streak" width="100%"/>
-</p>
-
-### Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyotfulsundar14&theme=radical&hide_border=true&bg_color=0D1117&color=00b4d8&line=00b4d8&point=00b4d8" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajyotfulsundar14&repo=PLAYWRIGHT_POM_ALLURE_TYPESCRIPT_FRAMEWORK&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7" alt="Test Framework"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajyotfulsundar14&repo=90DaysOfDevOps&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F81F7" alt="DevOps Learning"/>
 </p>
 
 ---
 
-## 📈 Recent Project Highlights
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajyotfulsundar14&repo=aws-3tier-java-devops-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=00b4d8&border_color=00b4d8" alt="AWS Project" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajyotfulsundar14&repo=ci-cd-pipeline-template&theme=radical&hide_border=true&bg_color=0D1117&title_color=00b4d8&border_color=00b4d8" alt="CI/CD Pipeline" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajyotfulsundar14&repo=PLAYWRIGHT_POM_ALLURE_TYPESCRIPT_FRAMEWORK&theme=radical&hide_border=true&bg_color=0D1117&title_color=00b4d8&border_color=00b4d8" alt="Test Framework" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=prajyotfulsundar14&repo=90DaysOfDevOps&theme=radical&hide_border=true&bg_color=0D1117&title_color=00b4d8&border_color=00b4d8" alt="DevOps Learning" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyotfulsundar14&theme=radical&hide_border=true&bg_color=0D1117&color=58a6ff&line=00b4d8&point=39d353" alt="Activity Graph"/>
 </p>
 
 ---
 
 ## 🚀 Get Started With My Work
 
-### Quick Navigation
-- 📚 **Blog & Technical Articles**: In-depth explorations of DevOps architecture patterns, Kubernetes best practices, and infrastructure automation techniques
-- 🎓 **Learning Resources**: 90-day intensive DevOps challenge featuring hands-on labs, real-world scenarios, and practical exercises
-- 💼 **Production Portfolio**: Enterprise-grade infrastructure templates, reusable Terraform modules, and battle-tested automation frameworks
-- 🔗 **Open Source Contributions**: Active contributions to community projects with focus on DevOps tooling and infrastructure automation
+### Quick Links
+- 📚 **Blog & Articles**: Deep dives into DevOps architecture, Kubernetes best practices, and infrastructure automation
+- 🎓 **Learning Resources**: 90-day DevOps challenge with hands-on labs and practical exercises
+- 💼 **Portfolio Projects**: Production-grade infrastructure templates and automation frameworks
+- 🔗 **Open Source**: Contributing to community projects and sharing reusable automation toolkits
 
 ---
 
-## 💬 Professional Network
+## 💬 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prajyot-fulsundar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:prajyot.fulsundar@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://prajyotfulsundar14.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Work-39d353?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/prajyotfulsundar14" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+- 🔗 LinkedIn: [Prajyot Fulsundar](https://www.linkedin.com/in/prajyot-fulsundar)
+- 📧 Email: [prajyot.fulsundar@example.com](mailto:prajyot.fulsundar@example.com)
+- 🌐 Portfolio: [prajyotfulsundar14.github.io](https://prajyotfulsundar14.github.io)
+- 🚀 GitHub: [prajyotfulsundar14](https://github.com/prajyotfulsundar14)
 
 ---
 
 <p align="center">
-  <strong>🌟 Passionate about scalable infrastructure, security automation, and empowering teams through DevOps excellence</strong>
-</p>
-
-<p align="center">
-  <sub style="color: rgba(255,255,255,0.7);">Last Updated: June 2026 | Contributions Welcome | Open to Collaborations</sub>
+  <sub style="color: rgba(255,255,255,0.7);">Built with ❤️ using advanced DevOps practices and automation</sub>
 </p>
