@@ -23,9 +23,9 @@
 </p>
 
 
-<p align="center">
+  <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&height=50&lines=Senior+DevOps+Engineer+🚀+|+3%2B+yrs+primary+focus;QA+Automation+Lead+🧪+|+7+yrs+deep+expertise;10%2B+Years+Total+Engineering+Experience+📊;AWS+|+Kubernetes+|+Terraform+|+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&height=60&lines=Senior+DevOps+Engineer+🚀+|+3%2B+yrs+primary+focus;QA+Automation+Lead+🧪+|+7+yrs+deep+expertise;10%2B+Years+Total+Engineering+Experience+📊;AWS+|+Kubernetes+|+Terraform+|+Docker" alt="Typing SVG" />
   </a>
 </p>
 
