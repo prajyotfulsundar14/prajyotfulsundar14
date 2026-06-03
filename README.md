@@ -23,31 +23,53 @@
 </p>
 
 <script>
-const lines = [
-  "Senior DevOps Engineer 🚀 | 3+ yrs primary focus",
-  "QA Automation Lead 🧪 | 7 yrs deep expertise", 
-  "10+ Years Total Engineering Experience 📊",
-  "AWS | Kubernetes | Terraform | Docker",
-  "GitHub Actions | ArgoCD | GitOps | CI/CD",
-  "Playwright | Selenium | Postman | TestNG",
-  "Open to Senior DevOps / SRE / Platform Roles"
-];
-let li = 0, ci = 0, del = false, txt = "";
-const el = document.getElementById("typer");
-function tick() {
-  const t = lines[li];
-  if (!del) {
-    txt = t.slice(0, ++ci);
-    el.textContent = txt;
-    if (ci === t.length) { del = true; return setTimeout(tick, 2000); }
-  } else {
-    txt = t.slice(0, --ci);
-    el.textContent = txt;
-    if (ci === 0) { del = false; li = (li + 1) % lines.length; }
+document.addEventListener("DOMContentLoaded", () => {
+  const lines = [
+    "Senior DevOps Engineer 🚀 | 3+ yrs primary focus",
+    "QA Automation Lead 🧪 | 7 yrs deep expertise",
+    "10+ Years Total Engineering Experience 📊",
+    "AWS | Kubernetes | Terraform | Docker",
+    "GitHub Actions | ArgoCD | GitOps | CI/CD",
+    "Playwright | Selenium | Postman | TestNG",
+    "Open to Senior DevOps / SRE / Platform Roles"
+  ];
+  
+  let li = 0, ci = 0, del = false, txt = "";
+  const el = document.getElementById("typer");
+  
+  // Safety check: Exit if the element doesn't exist on the page
+  if (!el) return; 
+
+  function tick() {
+    const t = lines[li];
+    
+    if (!del) {
+      // Typing phase
+      txt = t.slice(0, ++ci);
+      el.textContent = txt;
+      
+      if (ci === t.length) {
+        del = true;
+        return setTimeout(tick, 2000); // Pause for 2s when line is fully typed
+      }
+    } else {
+      // Deleting phase
+      txt = t.slice(0, --ci);
+      el.textContent = txt;
+      
+      if (ci === 0) {
+        del = false;
+        li = (li + 1) % lines.length;
+        return setTimeout(tick, 500); // Clean 0.5s pause when completely empty
+      }
+    }
+    
+    // Smooth typing (78ms) vs faster deleting (38ms)
+    setTimeout(tick, del ? 38 : 78);
   }
-  setTimeout(tick, del ? 38 : 78);
-}
-tick();
+  
+  tick();
+});
 </script>
 
 ---
