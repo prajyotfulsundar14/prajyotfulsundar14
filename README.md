@@ -191,25 +191,20 @@ I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterp
 
 ---
 
-## 🌟 Certifications & Recognition
-
-- **AWS Certified Solutions Architect** (Associate/Professional)
-- **Kubernetes Administrator (CKA)** Certified
-- **Terraform Associate** Certified
-- **GitHub Actions Specialist**
-- Open Source Contributor — 500+ GitHub contributions
-- Featured in DevOps communities and thought leadership publications
-
----
-
 ## 📊 GitHub Analytics & Performance Dashboard
 
 ### Core GitHub Metrics
 
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajyotfulsundar14&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00b4d8&icon_color=00b4d8&text_color=C9D1D9&border_color=00b4d8" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajyotfulsundar14&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00b4d8&text_color=C9D1D9&border_color=00b4d8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=prajyotfulsundar14&show_icons=true&theme=dark&title_color=2E9EF7&icon_color=2E9EF7&hide_border=true" alt="Prajyot's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prajyotfulsundar14&layout=compact&theme=dark&title_color=2E9EF7&icon_color=2E9EF7&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
+---
 
 ### Contribution Streak
 
