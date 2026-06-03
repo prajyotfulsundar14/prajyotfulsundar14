@@ -22,37 +22,11 @@
   </a>
 </p>
 
-<div align="center" style="background: linear-gradient(90deg, rgba(0,119,182,0.1), transparent); border: 1px solid rgba(0,180,216,0.2); border-radius: 8px; padding: 15px; margin: 20px 0;">
-  <div id="typer" style="font-family: 'Courier New', monospace; font-size: 14px; color: #00b4d8; font-weight: 700; min-height: 20px;"></div>
-</div>
-
-<script>
-const lines = [
-  "Senior DevOps Engineer 🚀 | 3+ yrs primary focus",
-  "QA Automation Lead 🧪 | 7 yrs deep expertise", 
-  "10+ Years Total Engineering Experience 📊",
-  "AWS | Kubernetes | Terraform | Docker",
-  "GitHub Actions | ArgoCD | GitOps | CI/CD",
-  "Playwright | Selenium | Postman | TestNG",
-  "Open to Senior DevOps / SRE / Platform Roles"
-];
-let li = 0, ci = 0, del = false, txt = "";
-const el = document.getElementById("typer");
-function tick() {
-  const t = lines[li];
-  if (!del) {
-    txt = t.slice(0, ++ci);
-    el.textContent = txt;
-    if (ci === t.length) { del = true; setTimeout(tick, 2000); return; }
-  } else {
-    txt = t.slice(0, --ci);
-    el.textContent = txt;
-    if (ci === 0) { del = false; li = (li + 1) % lines.length; }
-  }
-  setTimeout(tick, del ? 38 : 78);
-}
-tick();
-</script>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Senior+DevOps+Engineer+🚀+|+3%2B+yrs+primary+focus;QA+Automation+Lead+🧪+|+7+yrs+deep+expertise;10%2B+Years+Total+Engineering+Experience+📊;AWS+|+Kubernetes+|+Terraform+|+Docker;GitHub+Actions+|+ArgoCD+|+GitOps+|+CI/CD;Playwright+|+Selenium+|+Postman+|+TestNG;Open+to+Senior+DevOps+/+SRE+/+Platform+Roles&font=Courier+New&color=00b4d8&height=60&width=800&duration=5000&pause=1000&repeat=true" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
