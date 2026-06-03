@@ -43,7 +43,7 @@ function tick() {
   if (!del) {
     txt = t.slice(0, ++ci);
     el.textContent = txt;
-    if (ci === t.length) { del = true; return setTimeout(tick, 2000); }
+    if (ci === t.length) { del = true; setTimeout(tick, 2000); return; }
   } else {
     txt = t.slice(0, --ci);
     el.textContent = txt;
