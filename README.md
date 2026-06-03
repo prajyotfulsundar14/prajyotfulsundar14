@@ -22,8 +22,8 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=0DB7ED&center=true&vCenter=true&width=650&height=50&lines=Senior+DevOps+Engineer+🚀+|+3%2B+yrs+primary+focus;QA+Automation+Lead+🧪+|+7+yrs+deep+expertise;10%2B+Years+Total+Engineering+Experience+📊;AWS+|+Kubernetes+|+Terraform+|+Docker;GitHub+Actions+|+ArgoCD+|+GitOps+|+CI%2FCD;Playwright+|+Selenium+|+Postman+|+TestNG;Open+to+Senior+DevOps+%2F+SRE+%2F+Platform+Roles" alt="Prajyot's Expertise" />
-
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Senior+DevOps+Engineer+🚀+|+3%2B+yrs+primary+focus;QA+Automation+Lead+🧪+|+7+yrs+deep+expertise;10%2B+Years+Total+Engineering+Experience+📊;AWS+|+Kubernetes+|+Terraform+|+Docker)](https://git.io/typing-svg)</p>
 ---
 
 ## �� About Me
