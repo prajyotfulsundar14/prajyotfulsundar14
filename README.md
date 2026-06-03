@@ -38,20 +38,30 @@ const lines = [
 ];
 let li = 0, ci = 0, del = false, txt = "";
 const el = document.getElementById("typer");
-function tick() {
-  const t = lines[li];
-  if (!del) {
-    txt = t.slice(0, ++ci);
-    el.textContent = txt;
-    if (ci === t.length) { del = true; return setTimeout(tick, 2000); }
-  } else {
-    txt = t.slice(0, --ci);
-    el.textContent = txt;
-    if (ci === 0) { del = false; li = (li + 1) % lines.length; }
+
+if (el) {
+  function tick() {
+    const t = lines[li];
+    if (!del) {
+      txt = t.slice(0, ++ci);
+      el.textContent = txt;
+      if (ci === t.length) {
+        del = true;
+        setTimeout(tick, 2000);
+        return;
+      }
+    } else {
+      txt = t.slice(0, --ci);
+      el.textContent = txt;
+      if (ci === 0) {
+        del = false;
+        li = (li + 1) % lines.length;
+      }
+    }
+    setTimeout(tick, del ? 38 : 78);
   }
-  setTimeout(tick, del ? 38 : 78);
+  tick();
 }
-tick();
 </script>
 
 ---
