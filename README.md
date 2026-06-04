@@ -195,30 +195,19 @@ I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterp
 
 ## 📊 GitHub Analytics & Performance Dashboard
 
-### Core GitHub Metrics
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajyotfulsundar14&theme=react" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajyotfulsundar14&show_icons=true&theme=react" width="48%" />
+</div>
 
----
+<br />
 
-## 📊 GitHub Analytics
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyotfulsundar14&layout=compact&theme=react" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=prajyotfulsundar14&theme=merko" width="60%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=prajyotfulsundar14&show_icons=true&theme=dark&title_color=2E9EF7&icon_color=2E9EF7&hide_border=true" alt="Prajyot's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prajyotfulsundar14&layout=compact&theme=dark&title_color=2E9EF7&icon_color=2E9EF7&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajyotfulsundar14&theme=radical&hide_border=true&background=0D1117&stroke=00b4d8&ring=00b4d8&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00b4d8&sideLabels=00b4d8" alt="GitHub Streak" width="100%"/>
-</p>
-
-### Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyotfulsundar14&theme=radical&hide_border=true&bg_color=0D1117&color=00b4d8&line=00b4d8&point=00b4d8" alt="Activity Graph" width="100%"/>
-</p>
+<br />
 
 ---
 
