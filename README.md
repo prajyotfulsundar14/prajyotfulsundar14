@@ -195,19 +195,17 @@ I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterp
 
 ## 📊 GitHub Analytics & Performance Dashboard
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajyotfulsundar14&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajyotfulsundar14&show_icons=true&theme=react" width="48%" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajyotfulsundar14&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajyotfulsundar14&show_icons=true&theme=react" width="48%" />
 </div>
 
 <br />
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyotfulsundar14&layout=compact&theme=react" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=prajyotfulsundar14&theme=merko" width="60%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyotfulsundar14&layout=compact&theme=react" width="40%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyotfulsundar14&theme=react-dark" width="55%" />
 </div>
-
-<br />
 
 ---
 
