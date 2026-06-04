@@ -33,7 +33,7 @@
 
 ---
 
-## �� About Me
+## � About Me
 
 I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterprise-scale infrastructure resilience and accelerating delivery velocity through advanced DevOps automation. Currently focused on building production-ready cloud infrastructure while maintaining deep expertise in test automation.
 
@@ -195,18 +195,16 @@ I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterp
 
 ## 📊 GitHub Analytics & Performance Dashboard
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajyotfulsundar14&theme=react" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prajyotfulsundar14&show_icons=true&theme=react" width="48%" />
+## 📈 GitHub Stats
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajyotfulsundar14&theme=react" width="100%" />
 </div>
-
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajyotfulsundar14&theme=react" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prajyotfulsundar14&theme=react" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajyotfulsundar14&theme=react" width="32%" />
+</div>
 <br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyotfulsundar14&layout=compact&theme=react" width="40%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyotfulsundar14&theme=react-dark" width="55%" />
-</div>
-
 ---
 
 ## 📈 Recent Project Highlights
