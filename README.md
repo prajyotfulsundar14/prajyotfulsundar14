@@ -22,7 +22,7 @@
 
   <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&height=60&lines=Senior+DevOps+Engineer+🚀;Cloud+%26+DevOps+Engineer+Delivering+Reliable+Infrastructure+at+Scale;AWS+%C2%B7+Terraform+%C2%B7+Kubernetes+%C2%B7+Docker+%C2%B7+CI%2FCD;Multi-Cloud+Ops+%C2%B7+GitHub+Actions+%C2%B7+Jenkins+%C2%B7+CircleCI+%C2%B7+Splunk+%C2%B7+ArgoCD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&height=100&lines=Senior+DevOps+Engineer+🚀;Cloud+%26+DevOps+Engineer+Delivering+Reliable+Infrastructure+at+Scale;AWS+%C2%B7+Terraform+%C2%B7+Kubernetes;Docker+%C2%B7+CI%2FCD+%C2%B7+GitHub+Actions;Multi-Cloud+Ops+%C2%B7+Jenkins+%C2%B7+CircleCI+%C2%B7+Splunk+%C2%B7+ArgoCD" alt="Typing SVG" />
   </a>
 </p>
 
