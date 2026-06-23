@@ -3,11 +3,6 @@
 </p>
 
   <h1 align="center"><b>Prajyot Fulsundar 👋</b></h1>
-  
-<p align="center">
-  <h1 style="font-size: 28px; font-weight: 800; color: #00b4d8; margin: 10px 0 5px;">Building secure cloud-native systems.</h1>
-  <p style="font-size: 16px; color: #8b949e; margin: 10px 0 5px; line-height: 1.5;"><strong>10+ Years</strong> of driving enterprise-scale infrastructure resilience, implementing shift-left security practices, and accelerating delivery velocity through advanced DevOps automation. A distinguished engineer with deep expertise in building self-healing CI/CD pipelines, automated compliance gates, and production-grade cloud infrastructure.</p>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prajyot-fulsundar" target="_blank">
@@ -27,7 +22,7 @@
 
   <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&height=60&lines=Senior+DevOps+Engineer+🚀+|+3%2B+yrs+primary+focus;QA+Automation+Lead+🧪+|+7+yrs+deep+expertise;10%2B+Years+Total+Engineering+Experience+📊;AWS+|+Kubernetes+|+Terraform+|+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&height=60&lines=Senior+DevOps+Engineer+🚀;Cloud+%26+DevOps+Engineer+Delivering+Reliable+Infrastructure+at+Scale;AWS+%C2%B7+Terraform+%C2%B7+Kubernetes+%C2%B7+Docker+%C2%B7+CI%2FCD;Multi-Cloud+Ops+%C2%B7+GitHub+Actions+%C2%B7+Jenkins+%C2%B7+CircleCI+%C2%B7+Splunk+%C2%B7+ArgoCD" alt="Typing SVG" />
   </a>
 </p>
 
@@ -35,7 +30,7 @@
 
 ## � About Me
 
-I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterprise-scale infrastructure resilience and accelerating delivery velocity through advanced DevOps automation. Currently focused on building production-ready cloud infrastructure while maintaining deep expertise in test automation.
+I'm a **Senior DevOps Engineer 🚀** and **Cloud & DevOps Engineer delivering reliable infrastructure at scale**, with **12 years** of total experience including **3 years** of hands-on DevOps engineering. I build enterprise-grade cloud systems using **AWS · Terraform · Kubernetes · Docker · CI/CD**, and I drive **Multi-Cloud Ops** with **GitHub Actions · Jenkins · CircleCI · Splunk · ArgoCD** while maintaining strong resilience, automation, and observability.
 
 ### 🔭 Current Focus
 - Building production-ready DevOps infrastructure and automated compliance pipelines
@@ -88,6 +83,8 @@ I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
 </p>
 
+<p align="left"><strong>Toolchain:</strong> AWS · Terraform · Kubernetes · Docker · CI/CD · GitHub Actions · Jenkins · CircleCI · Splunk · ArgoCD</p>
+
 ### **Databases & Monitoring**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -106,80 +103,6 @@ I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
-
----
-
-## 🔥 Featured Infrastructure & Automation Engines
-
-### 🔷 AWS Multi-Tier Infrastructure Automation
-**Repository**: [`aws-3tier-java-devops-project`](https://github.com/prajyotfulsundar14/aws-3tier-java-devops-project)  
-**Tech Stack**: Terraform • AWS • HCL • Infrastructure as Code  
-**Status**: <img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=flat-square" alt="Status"/>  
-**Highlights**: 
-- Production-grade 3-tier architecture with automated provisioning
-- Infrastructure compliance gates and security group automation
-- Scalable VPC design with multi-AZ deployment strategies
-- State managed in S3 with DynamoDB locking
-- Least-privilege security group chaining: ALB → EC2 → RDS
-- CloudWatch alarms drive ASG scale-in/out policies
-- 70% faster provisioning vs manual setup
-- [🔗 Live Demo](https://prajyotfulsundar14.github.io/aws-demo/) • [📖 Documentation](https://github.com/prajyotfulsundar14/aws-3tier-java-devops-project/wiki)
-
-### 🔷 Automated CI/CD Pipeline Framework
-**Repository**: [`ci-cd-pipeline-template`](https://github.com/prajyotfulsundar14/ci-cd-pipeline-template)  
-**Tech Stack**: GitHub Actions • Docker • CI/CD • Pipeline Automation  
-**Status**: <img src="https://img.shields.io/badge/Status-Active_Development-blue?style=flat-square" alt="Status"/>  
-**Highlights**:
-- End-to-end GitOps pipeline for microservices platform
-- 8 reusable GitHub Actions workflow files — modular, DRY, composable
-- Automated quality gates and vulnerability scanning on every commit
-- Argo CD GitOps sync with Kubernetes manifests as source of truth
-- Zero hardcoded credentials at any stage
-- Shift-left integration with automated testing and validation
-- Infrastructure compliance validation as code
-- Zero-trust deployment pipeline with automated quality gates
-- [🔗 Pipeline Demo](https://github.com/prajyotfulsundar14/ci-cd-pipeline-template/actions) • [📖 Implementation Guide](https://github.com/prajyotfulsundar14/ci-cd-pipeline-template/blob/main/README.md)
-
-### 🔷 Scalable VPC Architecture Engine
-**Repository**: [`scalable-vpc-aws-project`](https://github.com/prajyotfulsundar14/scalable-vpc-aws-project)  
-**Tech Stack**: AWS • Terraform • Networking • JavaScript  
-**Status**: <img src="https://img.shields.io/badge/Status-Enterprise_Green-brightgreen?style=flat-square" alt="Status"/>  
-**Highlights**:
-- Modular, production-oriented AWS infrastructure: 28 resources across 6 Terraform modules
-- Multi-AZ VPC on AWS with public/private subnets, NAT gateway, least-privilege SGs
-- Terraform state in S3 — fully reproducible infra
-- Designed for auto-scaling web workloads across 2 availability zones
-- Enterprise-scale VPC design with automated network segmentation
-- Infrastructure as Code compliance and audit automation
-- Multi-region deployment strategies with automated failover
-- Zero-downtime failover validated under load
-- [🔗 Architecture Diagram](https://prajyotfulsundar14.github.io/vpc-architecture/) • [📖 Implementation Guide](https://github.com/prajyotfulsundar14/scalable-vpc-aws-project/blob/main/ARCHITECTURE.md)
-
-### 🎯 Advanced Test Automation Framework
-**Repository**: [`PLAYWRIGHT_POM_ALLURE_TYPESCRIPT_FRAMEWORK`](https://github.com/prajyotfulsundar14/PLAYWRIGHT_POM_ALLURE_TYPESCRIPT_FRAMEWORK)  
-**Tech Stack**: Playwright • TypeScript • Page Object Model • Allure Reports  
-**Status**: <img src="https://img.shields.io/badge/Status-Battle_Tested-orange?style=flat-square" alt="Status"/>  
-**Highlights**:
-- Enterprise Playwright framework — POM architecture, API + UI layers
-- Production-grade E2E test automation with parallel execution
-- GitHub Actions integration with Allure report generation and artifact upload per run
-- Integrated quality gates within CI/CD pipelines
-- Advanced reporting and test infrastructure automation
-- 6-job parallel CI pipeline — total runtime ~45 seconds
-- [🔗 Test Reports](https://prajyotfulsundar14.github.io/test-reports/) • [📖 Quick Start](https://github.com/prajyotfulsundar14/PLAYWRIGHT_POM_ALLURE_TYPESCRIPT_FRAMEWORK/blob/main/QUICKSTART.md)
-
-### 📚 DevOps Learning & Community Platform
-**Repository**: [`90DaysOfDevOps`](https://github.com/prajyotfulsundar14/90DaysOfDevOps)  
-**Tech Stack**: Shell • DevOps • Cloud Native • Automation  
-**Status**: <img src="https://img.shields.io/badge/Status-Community_Driven-yellow?style=flat-square" alt="Status"/>  
-**Highlights**:
-- Challenge for the DevOps Community to get stronger in DevOps
-- 90-day hands-on DevOps challenge — Linux, Docker, Kubernetes, Terraform, AWS, CI/CD
-- Open-source, open to community contributions
-- Infrastructure automation examples and best practices
-- Community-driven knowledge sharing platform
-- Comprehensive DevOps learning path with hands-on labs
-- [🔗 Learning Portal](https://prajyotfulsundar14.github.io/90days-devops/) • [📖 Curriculum](https://github.com/prajyotfulsundar14/90DaysOfDevOps/blob/main/CURRICULUM.md)
 
 ---
 
@@ -221,31 +144,54 @@ I'm a **Senior DevOps Engineer** with **10+ years** of experience driving enterp
 
 ---
 
+## � Featured Infrastructure & Automation Engines
+
+A curated list of production-ready and automation-first work that highlights cloud infrastructure, CI/CD, and DevOps innovation.
+
+- **AWS Multi-Tier Infrastructure** — Terraform + AWS + GitHub Actions for a resilient 3-tier architecture.
+- **GitOps CI/CD Pipeline** — Reusable GitHub Actions workflows for secure, automated deployments.
+- **Scalable VPC Architecture** — Multi-AZ network design with Terraform-managed state and security controls.
+- **Playwright Test Automation** — TypeScript test framework with Allure reporting and parallel execution.
+
+---
+
 ## 🚀 Get Started With My Work
 
 ### Quick Navigation
-- 📚 **Blog & Technical Articles**: In-depth explorations of DevOps architecture patterns, Kubernetes best practices, and infrastructure automation techniques
-- 🎓 **Learning Resources**: 90-day intensive DevOps challenge featuring hands-on labs, real-world scenarios, and practical exercises
-- 💼 **Production Portfolio**: Enterprise-grade infrastructure templates, reusable Terraform modules, and battle-tested automation frameworks
-- 🔗 **Open Source Contributions**: Active contributions to community projects with focus on DevOps tooling and infrastructure automation
+- 📚 **Blog & Technical Articles** — DevOps architecture patterns, Kubernetes best practices, automation techniques
+- 🎓 **Learning Resources** — 90-day cloud and DevOps challenge with hands-on labs and real-world scenarios
+- 💼 **Production Portfolio** — Enterprise-grade infrastructure templates, reusable Terraform modules, automation frameworks
+- 🔗 **Open Source Contributions** — Community-driven DevOps projects and GitOps tooling
 
 ---
 
 ## 💬 Professional Network
 
 <p align="center">
+  <strong>Driving hiring decisions for scalable DevOps, cloud infrastructure, and automation leadership.</strong>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/prajyot-fulsundar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:prajyot.fulsundar@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Available-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://prajyotfulsundar14.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Work-39d353?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore-39d353?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/prajyotfulsundar14" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  <em>Available for senior DevOps, cloud infrastructure, platform automation, and advisory opportunities.</em>
+</p>
+
+<p align="center">
+  <strong>Hiring managers and recruiters:</strong> let’s discuss roles in secure cloud operations, DevOps transformation, and automation delivery.
 </p>
 
 ---
